@@ -17,3 +17,40 @@ body{
     color: white;
     padding: 5px;
 }
+.box2{
+    width: 60%;
+    margin: 2% 2%;
+    background-color: white;
+    box-shadow: 0 4px 20px black;
+}
+.box2 img{
+    width: 100%;
+}
+.box2 h1{
+    padding: 1% 0%;
+}
+.box2 p{
+    padding: 1% 0%;
+}
+.bx3{
+    padding: 2% ;
+}
+.bx4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+}
+.bx4 button{
+    width: 20%;
+    height: 55px;
+    font-size: 15px;
+    background-color: white;
+    border: 1px solid black;
+}
+.bx4 button:hover{
+    background-color: gray;
+}
+.contener2{
+    margin-top: 3%;
+}
